@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Yi</title>
+  <title>一</title>
   
-  <subtitle>其年壮, 其行独</subtitle>
+  <subtitle>其年壮 其行独</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sohnyi.com/"/>
@@ -10,7 +10,7 @@
   <id>http://sohnyi.com/</id>
   
   <author>
-    <name>Zigu Wang</name>
+    <name>sohnyi</name>
     
   </author>
   
