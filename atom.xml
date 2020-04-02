@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Yi 瞎扯</title>
+  <title>Yi</title>
   
   <subtitle>难禁三月好风光 满街芳草 一片杏花香 [宋] 刘彤</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://sohnyi.com/</id>
   
   <author>
-    <name>sohnyi</name>
+    <name>Zigu Wang</name>
     
   </author>
   
