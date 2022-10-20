@@ -8,7 +8,7 @@ const siteMetadata = {
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://sohnyi.com',
+  siteUrl: 'https://www.sohnyi.com',
   siteRepo: 'https://github.com/sohnyi/sohnyi.github.io',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
